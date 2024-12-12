@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wwael\\source\\repos\\CRUD PaymentApp Angular\u002Bdotnet\\PaymentApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1508A0-158D-479B-83FA-4CE7BAAE1C16}|PaymentApi\\PaymentApi.csproj|c:\\users\\wwael\\source\\repos\\crud paymentapp angular\u002Bdotnet\\paymentapi\\paymentapi\\models\\paymentdetailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1508A0-158D-479B-83FA-4CE7BAAE1C16}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\models\\paymentdetailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1508A0-158D-479B-83FA-4CE7BAAE1C16}|PaymentApi\\PaymentApi.csproj|c:\\users\\wwael\\source\\repos\\crud paymentapp angular\u002Bdotnet\\paymentapi\\paymentapi\\controllers\\paymentdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1508A0-158D-479B-83FA-4CE7BAAE1C16}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\controllers\\paymentdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1508A0-158D-479B-83FA-4CE7BAAE1C16}|PaymentApi\\PaymentApi.csproj|c:\\users\\wwael\\source\\repos\\crud paymentapp angular\u002Bdotnet\\paymentapi\\paymentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1508A0-158D-479B-83FA-4CE7BAAE1C16}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1508A0-158D-479B-83FA-4CE7BAAE1C16}|PaymentApi\\PaymentApi.csproj|c:\\users\\wwael\\source\\repos\\crud paymentapp angular\u002Bdotnet\\paymentapi\\paymentapi\\models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1508A0-158D-479B-83FA-4CE7BAAE1C16}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wwael\\source\\repos\\CRUD PaymentApp Angular\u002Bdotnet\\PaymentApi\\PaymentApi\\Program.cs",
+              "RelativeDocumentMoniker": "PaymentApi\\Program.cs",
+              "ToolTip": "C:\\Users\\wwael\\source\\repos\\CRUD PaymentApp Angular\u002Bdotnet\\PaymentApi\\PaymentApi\\Program.cs*",
+              "RelativeToolTip": "PaymentApi\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T20:41:56.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentDetailController.cs",
+              "DocumentMoniker": "C:\\Users\\wwael\\source\\repos\\CRUD PaymentApp Angular\u002Bdotnet\\PaymentApi\\PaymentApi\\Controllers\\PaymentDetailController.cs",
+              "RelativeDocumentMoniker": "PaymentApi\\Controllers\\PaymentDetailController.cs",
+              "ToolTip": "C:\\Users\\wwael\\source\\repos\\CRUD PaymentApp Angular\u002Bdotnet\\PaymentApi\\PaymentApi\\Controllers\\PaymentDetailController.cs",
+              "RelativeToolTip": "PaymentApi\\Controllers\\PaymentDetailController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:32:22.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentDetailContext.cs",
+              "DocumentMoniker": "C:\\Users\\wwael\\source\\repos\\CRUD PaymentApp Angular\u002Bdotnet\\PaymentApi\\PaymentApi\\Models\\PaymentDetailContext.cs",
+              "RelativeDocumentMoniker": "PaymentApi\\Models\\PaymentDetailContext.cs",
+              "ToolTip": "C:\\Users\\wwael\\source\\repos\\CRUD PaymentApp Angular\u002Bdotnet\\PaymentApi\\PaymentApi\\Models\\PaymentDetailContext.cs",
+              "RelativeToolTip": "PaymentApi\\Models\\PaymentDetailContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T18:27:45.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentDetail.cs",
+              "DocumentMoniker": "C:\\Users\\wwael\\source\\repos\\CRUD PaymentApp Angular\u002Bdotnet\\PaymentApi\\PaymentApi\\Models\\PaymentDetail.cs",
+              "RelativeDocumentMoniker": "PaymentApi\\Models\\PaymentDetail.cs",
+              "ToolTip": "C:\\Users\\wwael\\source\\repos\\CRUD PaymentApp Angular\u002Bdotnet\\PaymentApi\\PaymentApi\\Models\\PaymentDetail.cs",
+              "RelativeToolTip": "PaymentApi\\Models\\PaymentDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T18:15:40.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
